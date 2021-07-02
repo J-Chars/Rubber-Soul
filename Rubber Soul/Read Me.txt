@@ -1,0 +1,46 @@
+- Rubber Soul Readme -
+
+
+  = Q & A =
+
+
+ Q : Why Rubber? 
+
+ A : Rubber Soul is a pretty interesting character in Heritage for the Future, and has some high potential in being made and
+     tailored to fit in a CvS environment.
+
+
+ Q : What's his playstyle like?
+
+ A : Rubber Soul is changed heavily in order to accomodate for being balanced in a more CvS-ish environment, so while his mobility
+     is kept the same, his pressure is different from source in order to not make his offense impossible to deal with. 
+
+
+ Q : How do you play Rubber?
+
+ A : Rubber is a defensive oriented character with great pressure and offensive tools, however his mobility is slow and has a hard time
+     dealing with hard pressure and zoning. His buttons are overall fairly solid and are good to use in neutral, such as st.HP, which has
+     a fair amount of priority, and can be cancelled into Rubber Splash to be safe. Same with other good moves like cr.MP, which can also
+     be cancelled into Rubber Splash to be a more safe blockstring. His neutral needs to be a little more precise than normal in order to
+     be able to run his gameplan of either playing defensive or pressing hard (depending on the matchup). Just use his good buttons, and
+     make sure to use good mixups and juggles off of wrap setups and also make good use of tick throws in order to deal the damage you need.
+
+
+
+  = BEGINNER COMBOS =
+
+ cr.LP, cr.MP xx HP.Rubber Splash
+
+ st.HP xx LP.Wrap, st.HP xx HP.Rubber Splash
+
+ cr.LP, cr.MP xx LP.Wrap, j.HP
+
+
+  = CUSTOM COMBOS =
+
+ Install, repeat (cr.MK xx st.HP), Bullet Jam
+
+
+ = CREDITS =
+
+  Tay (xcheatdeath) - SFF

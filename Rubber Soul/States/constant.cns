@@ -1,0 +1,98 @@
+;-------------------------------
+;-| RUBBER SOUL by JtheSaltyy |-
+;-------------------------------
+;      - CONSTANTS FILE -
+;-------------------------------
+
+;================================
+
+[Data]
+life = 1025
+attack = 100
+defence = 100
+fall.defence_up = 52
+liedown.time = 57
+airjuggle = 15
+sparkno = -1
+guard.sparkno = S7001
+KO.echo = 0
+volume = 100
+IntPersistIndex = 0
+FloatPersistIndex = 0
+
+;================================
+
+[Size]
+xscale = 0.833		
+yscale = 1.09		
+ground.back = 16		
+ground.front = 16		
+air.back = 15		
+air.front = 15	
+height = 65			
+attack.dist = 160	
+proj.attack.dist = 90	
+proj.doscale = 0		   
+head.pos = -6, -110
+mid.pos = 8, -75		
+shadowoffset = 0		
+draw.offset = 0,0		
+
+;================================
+
+[Velocity]
+walk.fwd  = 2.9
+walk.back = -2.7
+run.fwd  = 4.85, -4		
+run.back = -7.55, -5			
+jump.neu = 0, -10.5 
+jump.back = -2.55, -9 
+jump.fwd = 2.55, -9
+runjump.back = -5,-8
+runjump.fwd = 5,-8	
+
+;================================
+
+[Movement]
+airjump.num = 0		
+airjump.height = 28		
+yaccel = 0.59		
+stand.friction = .85		
+crouch.friction = .82
+air.gethit.groundrecover.ground.threshold = -20
+air.gethit.groundrecover.groundlevel = 10
+air.gethit.airrecover.threshold = -1
+air.gethit.airrecover.yaccel = 0.35
+
+;================================
+
+[Quotes]
+
+;=[ RUBBER QUOTES ]=
+
+victory1 = "Do you understannnnnnnnddddd?"
+victory2 = "rerorerorerorerorerorero..."
+victory3 = "You are so weak.. I'd rather die than be you!"
+victory4 = "Skill? What's that? Oh, it's just something that I have and you don't."
+victory5 = "Yellow Temperance has no weaknesses! Die knowing you'll never beat me!"
+victory6 = "I'll digest you right down to your shit!"
+victory7 = "Ha! Do you have a brain? Do you not understand that I cannot be beaten??"
+victory8 = "Yellow Temperance can stop anything and everything you try to do."
+victory9 = "Come on.. Is something wrong? Why don't you want to hit me again?"
+victory10 = "My Stand will eat you up slowly and painfully. Enjoy your pathetic final moments."
+victory11 = "You can hit my Stand, but it won't do you any good. You'll be doing me a favor."
+victory12 = "I am invincible! Nothing can stop my Stand, not even the best of the best!"
+victory13 = "You cannot laugh at the joke when you are the joke!"
+victory14 = "My stand is the strongest of them all!"
+victory15 = "Your defeat is proof of yourm" ;actual winquote
+
+;=[ SPECIAL QUOTES ]=
+
+; vs. Jotaro
+victory16 = "Hey Jotaro, good old pal.. You wouldn't try to hit me again, would you..?"
+
+; vs. DIO
+victory17 = "So where's that $100 Million you owe me, huh?"
+
+; vs. Kakyoin
+victory18 = "I make for a good impression, don't I? I got your friends completely fooled!"
